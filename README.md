@@ -38,8 +38,8 @@ testo scorrevole a pagine e musica. Funziona da interfaccia grafica o da riga di
 Non serve installare nulla: scarica `c64tap.py` (o clona il repository) ed eseguilo.
 
 ```bash
-git clone https://github.com/<tuo-utente>/c64-tap-builder.git
-cd c64-tap-builder
+git clone https://github.com/linusvista/c64tapbuilder.git
+cd c64tapbuilder
 python3 c64tap.py
 ```
 
